@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigation Drawer Test</string>
+
+    <string name="navigation_drawer_open_string">Open</string>
+    <string name="navigation_drawer_close_string">Close</string>
+</resources>
